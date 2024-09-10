@@ -1,8 +1,3 @@
-/*:
- Final Project
- CIS 137 Summer 2024
- Dylan Wong
- */
 import SwiftUI
 
 class MinesweeperGame : ObservableObject {
